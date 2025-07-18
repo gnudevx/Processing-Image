@@ -1,9 +1,6 @@
 # ProcessingImageFinal
 final image processing course - python 
 
+Due to don't push folder into git, if you see necessary you can download it from drive mine!
 
-This file is processing for course hadle image + video describe project 
-You can watch video before run project then it easy fix bug when run it! 
-
-
-link drive download file "https://drive.google.com/file/d/1JqnRLYjKzadZ2DEEFvCpIkwIFNzIN6u2/view?usp=sharing" if without clone in git!
+link drive download file "https://drive.google.com/file/d/1JqnRLYjKzadZ2DEEFvCpIkwIFNzIN6u2/view?usp=sharing"!
